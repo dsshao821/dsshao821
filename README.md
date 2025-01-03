@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey 👋, I'm Dan (@dsshao821)
+
+I am a senior data analyst at [Ingenovis Health](https://www.ingenovishealth.com/) where I help lead the Data Strategy and Analytics group and drive key business insights and decisions on matching the brightest healthcare workers to their ideal travel opportunities.
+
+## How to reach me
+- [Email](mailto:dsshao821@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/dsshao/)
 
 <!--
 **dsshao821/dsshao821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
