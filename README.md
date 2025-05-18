@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Dan (@dsshao821)
 
-I am a senior data analyst at [Ingenovis Health](https://www.ingenovishealth.com/) where I help lead the Data Strategy and Analytics group and drive key business insights and decisions on matching the brightest healthcare workers to their ideal travel opportunities.
+I lead data analytics at [Komar Alliance](https://www.komar.com/).
 
 ## How to reach me
 - [Email](mailto:dsshao821@gmail.com)
