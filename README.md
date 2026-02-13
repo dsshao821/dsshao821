@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Dan (@dsshao821)
 
-I lead data analytics at [Komar Alliance](https://www.komar.com/).
+I lead the data team at [Komar Alliance](https://www.komar.com/).
 
 ## How to reach me
 - [Email](mailto:dsshao821@gmail.com)
