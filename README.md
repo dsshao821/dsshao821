@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Dan (@dsshao821)
 
-I lead the data team at [Komar Alliance](https://www.komar.com/).
+I am a data engineer at [Shield AI](https://www.shield.ai/).
 
 ## How to reach me
 - [Email](mailto:dsshao821@gmail.com)
